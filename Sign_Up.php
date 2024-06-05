@@ -1,6 +1,5 @@
 <?php 
     session_start();
-    $i = 0;
 ?>
 
 <!DOCTYPE html>
